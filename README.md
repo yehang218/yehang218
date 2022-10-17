@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logoUnity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/>
