@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 # 📌SOCIAL📌
 <div>
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-   <a href="https://woonyang-story.tistory.com/">![Tistory](https://img.shields.io/badge/Tistory-0E1128.svg?style=for-the-badge&logo=Tistory&logoColor=white)</a>
- <img src="https://img.shields.io/badge/Tistory-0E1128?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <a href="https://woonyang-story.tistory.com/"><img src="https://img.shields.io/badge/Tistory-0E1128?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </div>
 
 # 📚STUDY📚
