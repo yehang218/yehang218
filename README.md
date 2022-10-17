@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 🐈 Social 🐈
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <a href="https://woonyang-story.tistory.com/"><img src="https://img.shields.io/badge/Tistory-0E1128?style=flat-square&logo=Tistory&logoColor=white"/></a>
-[![hyun_w9](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyun_w9)](https://solved.ac/hyun_w9)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=이름)](https://solved.ac/hyun_w9/)
 
 # Skills
 ### 📕 Study 📕
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yehang218&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokhee Kim&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehang218&count_private=true)
