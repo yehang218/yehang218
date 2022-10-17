@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </div>
 
-### 👨‍💻Activities👨‍💻
+# 👨‍💻Activities👨‍💻
 
 
 <br><br>
