@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #🐈 Social 🐈
-<img src="https://img.shields.io/badge/Tistory-0E1128?style=flat-square&logo=Tistory&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <a href="https://woonyang-story.tistory.com/"><img src="https://img.shields.io/badge/Tistory-0E1128?style=flat-square&logo=Tistory&logoColor=white"/></a>
 [![https://solved.ac/profile/hyun_w9](http://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디)](https://solved.ac/hyun_w9)
 
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 <img src="http://mazandi.herokuapp.com/api?handle=hyun_w9&theme=warm"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yehang218)](https://github.com/yehang218/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehang218)](https://github.com/yehang218/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehang218&count_private=true)
