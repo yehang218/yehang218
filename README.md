@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 🐈 Social 🐈
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <a href="https://woonyang-story.tistory.com/"><img src="https://img.shields.io/badge/Tistory-0E1128?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href = "https://solved.ac/profile/hyun_w9">[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyun_w9)](https://solved.ac/hyun_w9)</a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun_w9)](https://solved.ac/hyun_w9/)
 
 # Skills
 ### 📕 Study 📕
