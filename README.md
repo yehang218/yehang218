@@ -14,6 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi there 👋
 
+🐈 Social 🐈
+<img src="https://img.shields.io/badge/Tistory-0E1128?style=flat-square&logo=Tistory&logoColor=white"/>
+<a href="https://woonyang-story.tistory.com/"><img src="https://img.shields.io/badge/Tistory-0E1128?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
+<b>Skills</b>
+📕 Study 📕
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+🔨 Tools 🔨
 <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
