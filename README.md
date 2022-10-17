@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 📌SOCIAL📌
+📌SOCIAL📌
 <div>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <a href="https://woonyang-story.tistory.com/"><img src="https://img.shields.io/badge/Tistory-0E1128?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </div>
 
-# 📚STUDY📚
+📚STUDY📚
 <div display="inline-block">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </div>
 
-# 👨‍💻Activities👨‍💻
+👨‍💻Activities👨‍💻
 
 
 <br><br>
