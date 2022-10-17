@@ -14,18 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#🐈 Social 🐈
+# 🐈 Social 🐈
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <a href="https://woonyang-story.tistory.com/"><img src="https://img.shields.io/badge/Tistory-0E1128?style=flat-square&logo=Tistory&logoColor=white"/></a>
 [![https://solved.ac/profile/hyun_w9](http://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디)](https://solved.ac/hyun_w9)
 
-#Skills
-###📕 Study 📕
+# Skills
+### 📕 Study 📕
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-###🔨 Tools 🔨
+### 🔨 Tools 🔨
 <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
