@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🐈 Social 🐈
+### 🐈 Social 🐈
 <div>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <a href="https://woonyang-story.tistory.com/"><img src="https://img.shields.io/badge/Tistory-0E1128?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </div>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyun_w9)](https://solved.ac/hyun_w9/)
 
-# Skills
 ### 📕 Study 📕
 <div>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
