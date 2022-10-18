@@ -12,16 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=150&section=header&text=SeokHee's%20GitHub&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=Rounded&color=gradient&customColorList=23&height=100&section=header&text=SeokHee's%20GitHub&fontSize=30" />
 
+<br>
 <h3 align="center"><b>📌 SOCIAL 📌</b></h3>
 <p align="center">
   <a href="https://github.com/yehang218"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyehang218%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
   <a href="https://woonyang-story.tistory.com/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwoonyang-story.tistory.com&count_bg=%23555555&title_bg=%23555555&icon=tumblr.svg&icon_color=%23FFFFFF&title=Tistory&edge_flat=false"/></a>
  <a href="https://solved.ac/hyun_w9"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hyun_w9"/></a>
-  
  </p>
- 
+
+<br>
 <h3 align="center"><b>📚 STUDY 📚</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -32,16 +33,18 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </p>
 
+<br>
 <p align="center">
 <h3 align="center"><b>👨‍💻 ACTIVITIES 👨‍💻</b></h3>
 </p>
 
 <br><br><br>
 
+<br>
 <p align="center">
 
 [![yehang218's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehang218&hide_border=true&hide=stars&show_icons=true&icon_color=b7d364&text_color=5A7A46&title_color=1C2B1F&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![yehang218's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yehang218&title_color=1C2B1F&show_icons=true&hide_border=true&layout=compact)](https://github.com/yehang218)
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F0F2E3&height=150&section=footer"/>
