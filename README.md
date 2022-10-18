@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=Soft&color=gradient&customColorList=23&height=100&section=header&text=SeokHee's%20GitHub&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=gradient&customColorList=23&height=150&section=header&text=SeokHee's%20GitHub&fontSize=70" />
 
 <br>
 <h3 align="center"><b>📌 SOCIAL 📌</b></h3>
