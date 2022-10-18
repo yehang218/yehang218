@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=Soft&color=gradient&customColorList=23&height=150&section=header&text=SeokHee's%20GitHub&fontSize=70" />
 
-<br>
 <h3 align="center"><b>📌 SOCIAL 📌</b></h3>
 <p align="center">
   <a href="https://github.com/yehang218"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyehang218%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
