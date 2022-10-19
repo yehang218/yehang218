@@ -46,11 +46,9 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-<center>
 
 [![yehang218's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehang218&hide_border=true&hide=stars&show_icons=true&icon_color=b7d364&text_color=5A7A46&title_color=1C2B1F&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![yehang218's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yehang218&title_color=1C2B1F&show_icons=true&langs_count=6&hide_border=true&layout=compact)](https://github.com/yehang218)
 
-</center>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23&height=150&section=footer"/>
