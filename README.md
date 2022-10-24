@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center"><b>📌 SOCIAL 📌</b></h3>
 <p align="center">
   <a href="https://github.com/yehang218"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyehang218%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-  <a href="https://woonyang-story.tistory.com/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwoonyang-story.tistory.com&count_bg=%23555555&title_bg=%23555555&icon=tumblr.svg&icon_color=%23FFFFFF&title=Tistory&edge_flat=false"/></a>
+  <a href="https://woonyang-story.tistory.com/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwoonyang-story.tistory.com&count_bg=%23000000&title_bg=%23000000&icon=tumblr.svg&icon_color=%23FFFFFF&title=Tistory&edge_flat=false"/></a>
  <a href="https://solved.ac/hyun_w9"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hyun_w9"/></a>
  </p>
 
