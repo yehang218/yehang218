@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center"><b>👨‍💻 ACTIVITIES 👨‍💻</b></h3>
 <p align="center">
+  <i>이름 클릭시 각 페이지로 이동합니다.</i><br>
 ✔ 𝙿𝚊𝚙𝚎𝚛 𝙿𝚊𝚢𝚖𝚎𝚗𝚝 𝙼𝚘𝚋𝚒𝚕𝚎 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚘𝚗 𝙶𝚊𝚖𝚎 <a href="https://github.com/TeamOddStampTeam/Payment_Is_Urgent"><b> 결재가 시급해</b><a><br>
 ✔ 𝙼𝚊𝚙 𝙵𝚒𝚕𝚕𝚒𝚗𝚐 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 <a href="https://github.com/HSUITContestTeam/fillin-map"><b> FILLIN MAP</b><a><br>
 ✔ 𝙲𝚘𝚗𝚟𝚎𝚗𝚒𝚎𝚗𝚌𝚎 𝚂𝚝𝚘𝚛𝚎 𝚂𝚒𝚖𝚞𝚕𝚊𝚝𝚒𝚘𝚗 𝙶𝚊𝚖𝚎 <a href="https://github.com/TeamOddCS/JS25"><b> JS25</b></a><br>
