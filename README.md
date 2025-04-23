@@ -1,59 +1,101 @@
-<!--
-**yehang218/yehang218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+<h1>Hi, I'm SeokHee Kim👋</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img src="https://capsule-render.vercel.app/api?type=Soft&color=gradient&customColorList=23&height=150&section=header&text=SeokHee's%20GitHub&fontSize=70" />
--->
-
-## 👋 HELLO!!
-<p>
-
-  [![](https://mazassumnida.wtf/api/mini/generate_badge?boj=hyun_w9)](https://solved.ac/profile/hyun_w9)
-</p>
-<br>
-
-## 📚 STACKS
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-</p>
+<ul style="">
+<li>끊임없는 학습을 통해 지속해서 발전하려고 노력합니다.</li>
+<li>사회에 의미 있는 기술을 제공하는 개발자가 되고 싶습니다.</li>
+<li>배움을 기록하고 공유하는 것을 좋아해 <a href="https://woonyang-story.tistory.com/">기술 블로그</a>를 운영하고 있습니다.</li>
+<li>팀원과의 소통을 중요하게 생각해 매년 팀 프로젝트를 수행하며 커뮤니케이션 능력을 향상하고 있습니다.</li>
+</ul>
 
 <br>
+<hr>
 
-## 👨‍💻 PROJECTS
+<h3>📚 STACK</h3> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-2a2a2a?style=for-the-badge&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 
-<p>
-  <i>이름 클릭시 각 페이지로 이동합니다.</i><br>
-✔ Hack and Slash RPG Game <a href="https://github.com/Team-DoLoop/DoLupia"><b> Dolupia </b></a><br>
-✔ 𝙲𝚛𝚎𝚊𝚝𝚎 𝚠𝚎𝚋𝚝𝚘𝚘𝚗 𝚊𝚞𝚝𝚑𝚘𝚛𝚒𝚗𝚐 𝚝𝚘𝚘𝚕 𝚞𝚜𝚒𝚗𝚐 𝙰𝙸 <a href ="https://github.com/IbwaProject/IbwaProject"><b> #툰</b></a><br>
-✔ 𝙲𝚊𝚙𝚜𝚝𝚘𝚗𝚎 𝟤𝟢𝟤𝟥-𝚅𝚁 𝙷𝚊𝚗𝚍𝚃𝚛𝚊𝚌𝚔𝚒𝚗𝚐 𝙲𝚘𝚐𝚗𝚒𝚝𝚒𝚟𝚎 𝚁𝚎𝚑𝚊𝚋𝚒𝚕𝚒𝚝𝚊𝚝𝚒𝚘𝚗 𝙲𝚘𝚗𝚝𝚎𝚗𝚝𝚜 <a href ="https://github.com/HS-GS31/GS31"><b> 춘자씨의 푸드트럭</b></a><br>
-✔ 𝙼𝚊𝚙𝚕𝚎𝚂𝚝𝚘𝚛𝚢 𝚆𝚘𝚛𝚕𝚍 𝚂𝚞𝚙𝚎𝚛 𝙷𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗 𝟤𝟢𝟤𝟤 <a href ="https://maplestoryworlds.nexon.com/play/ce5c80d5914b4a40a2f6ac7acd6f28aa"><b> 더시드 랜덤타워디펜스</b></a><br>
-✔ 𝙼𝚊𝚙 𝙵𝚒𝚕𝚕𝚒𝚗𝚐 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 <a href="https://github.com/HSUITContestTeam/fillin-map"><b> FILLIN MAP</b><a><br>
-✔ Stage Casual Mobile Game <a href="https://github.com/Team-efni/FlowersBloom"><b> 꽃이 피는 날 </b><a><br>
-✔ Python Learning Platform <a href="https://github.com/Py-Sun/WhyPy_BackEnd"><b> Why?Py!</b><a><br>
-</p>
+<br>
+<br>
+<hr>
+
+<h3>👨‍💻 Main Project</h3>
+
+| 기간 | 내용 | 프로젝트 | 기술 |
+|:----|:----|:----|:----|
+| 2024.04 ~ 2024.07 | AI 활용 액션 RPG 게임 | <a href="https://github.com/Team-DoLoop/DoLupia">DoLupia</a> | `unreal` `c++` |
+| 2025.03 ~ 2025.04 | 사이드 프로젝트 매칭 및 관리 웹사이트 | <a href="https://github.com/BE14-NoB/Pick">Pick</a> | `spring boot` `java` |
+| 2023.04 ~ 2023.11 | 스테이지형 캐주얼 모바일 게임 | <a href="https://github.com/Team-efni/FlowersBloom">꽃이 피는 날</a> | `unity` `c#` |
+| 2021.07 ~ 2021.09 | 지도 채우기 어플 | <a href="https://github.com/HSUITContestTeam/fillin-map">Fillin-Map</a> | `android studio` `kotlin` |
 
 <br>
 
-<p>
+<details>
+  <summary style="font-size: 1.3em;">
+  <b>💻 Other Project</b>
+  </summary>
+<br>
 
-![yehang218's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yehang218&hide_border=true&hide=stars&show_icons=true&icon_color=b7d364&text_color=5A7A46&title_color=1C2B1F&count_private=true) 
+| 기간 | 내용 | 프로젝트 | 기술 |
+|:----|:----|:----|:----|
+| 2023.05 ~ 2023.06 | 시각형 날씨 정보 제공 어플 | <a href="https://github.com/DC-SHB/FashionMA">패션기상청</a> | `unity` `c#` |
+| 2023.01 ~ 2023.06 | VR 핸드트래킹을 이용한 인지재활 콘텐츠 | <a href="https://github.com/HS-GS31/GS31">춘자씨의 푸드트럭</a> | `unity` `c#` |
+| 2022.09 ~ 2022.12 | 멀티 타워 디펜스 게임 | <a href="https://maplestoryworlds.nexon.com/play/ce5c80d5914b4a40a2f6ac7acd6f28aa">더시드 랜덤타워디펜스</a> | `msw engine` `lua` |
+| 2022.07 ~ 2022.11 | AI 활용 웹툰 저작도구 웹사이트 | <a href="https://github.com/IbwaProject/SharpToon">#툰</a> | `flask` `python` |
+</details>
+
+<br>
+<hr>
+
+<h3>✏️ Education</h3>
+
+| 기간 | 내용 |
+|:----|:----|
+| 2024.12 ~ | 한화시스템 BEYOND SW캠프 14기 |
+| 2023.12 ~ 2024.07 | 언리얼 엔진과 생성형 AI를 활용한 콘텐츠 개발 과정 |
+| 2022.09 ~ 2022.12 | 메이플스토리 월드 슈퍼 해커톤 |
+| 2019.03 ~ 2023.08 | 한성대학교 컴퓨터공학부 |
+
+<br>
+<hr>
+
+<h3>🏆 수상 이력</h3>
+<ul>
+<li>2022 ICT 이브와 공모전 입선</li>
+<li>2021 한성공학경진대회 장려상</li>
+
+</ul>
+
+<br>
+<hr>
+
+<h3>📑 자격증</h3>
+<ul style="">
+<li>SQL개발자 (2025.04)</li>
+<li>PCCE (2025.02)</li>
+<li>정보처리기사 (2022.11)</li>
+
+</ul>
+
+<br>
+<hr>
+
+<h3>📍 ETC</h3>
+<p>
+<img align="left" src="https://mazassumnida.wtf/api/generate_badge?boj=hyun_w9" width="43%" height="195px">
+<img src="https://github-readme-stats.vercel.app/api?username=yehang218&show_icons=true&theme=panda" width="43%" height="195px" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23&height=150&section=footer"/>
+
+</div>
