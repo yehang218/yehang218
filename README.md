@@ -96,8 +96,8 @@
 
 <h3>📍 ETC</h3>
 <p>
-<img align="left" src="https://mazassumnida.wtf/api/generate_badge?boj=hyun_w9" height="195px">
-<img src="https://github-readme-stats.vercel.app/api?username=yehang218&show_icons=true&theme=panda" height="200px" />
+<img align="left" src="https://mazassumnida.wtf/api/generate_badge?boj=hyun_w9" height="185px">
+<img src="https://github-readme-stats.vercel.app/api?username=yehang218&show_icons=true&theme=panda" height="190px" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23&height=150&section=footer"/>
