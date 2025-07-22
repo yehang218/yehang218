@@ -37,7 +37,7 @@
 
 | 기간 | 내용 | 프로젝트 | 기술 |
 |:----|:----|:----|:----|
-| 2025.0 ~ 2025.0 | 채용 관리 중심의 통합 HR 웹 사이트 | <a href="https://github.com/yehang218/Empick">Enpick</a> | `spring boot` `java` |
+| 2025.05 ~ 2025.06 | 채용 관리 중심의 통합 HR 웹 사이트 | <a href="https://github.com/yehang218/Empick">Enpick</a> | `spring boot` `java` |
 | 2025.04 ~ 2025.05 | 상담 내용 AI 분석 웹 사이트 | <a href="https://github.com/yehang218/be14-4th-PiveGuyz-OnDam-BE">On:Dam</a> | `spring boot` `java` |
 | 2025.03 ~ 2025.04 | 사이드 프로젝트 매칭 및 관리 웹사이트 | <a href="https://github.com/BE14-NoB/Pick">Pick</a> | `spring boot` `java` |
 | 2024.04 ~ 2024.07 | AI 활용 액션 RPG 게임 | <a href="https://github.com/Team-DoLoop/DoLupia">DoLupia</a> | `unreal` `c++` |
